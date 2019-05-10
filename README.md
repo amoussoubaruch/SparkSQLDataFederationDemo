@@ -54,3 +54,4 @@ Restart the Zeppelin service
 Access The Zeppelin Notebook
 
 [http://sandbox.hortonworks.com:9995](http://sandbox.hortonworks.com:9995)
+t
